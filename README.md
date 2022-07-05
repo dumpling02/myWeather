@@ -1,2 +1,2 @@
 # myWeather
-利用python网络爬虫实现天气情况统计，并可视化处理
+利用python网络爬虫实现天气情况统计，连接mysql数据库，利用Flask框架可视化处理
